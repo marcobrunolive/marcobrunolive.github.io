@@ -2,7 +2,7 @@ body {
     font-family: "Fira Code", Arial, Helvetica, sans-serif;
 }
 
-body, h1, h2, h3 {
+body, h1, h2, h3, figure {
     margin: 0;
 }
 
