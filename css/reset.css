@@ -2,11 +2,14 @@ body {
     font-family: "Fira Code", Arial, Helvetica, sans-serif;
 }
 
-body, h1, h2, h3, figure {
+body, h1, h2, h3, figure, input {
     margin: 0;
+    padding: 0;
 }
 
 button {
     border: none;
     font-family: inherit;
 }
+
+
